@@ -8,4 +8,3 @@ except ValueError:
     print("Vui lòng nhập vào một số nguyên hợp lệ.")
 except Exception as e:
     print(f"Đã xảy ra lỗi: {e}")
-
