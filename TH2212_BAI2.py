@@ -15,4 +15,3 @@ def max_min():
  print(f"Số lớn nhất là: {so_lon_nhat}")
  print(f"Số nhỏ nhất là: {so_nho_nhat}")
 max_min()
-        
