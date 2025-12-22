@@ -10,7 +10,7 @@ def bai_them_bai_8():
             print("Giá trị nhập vào không hợp lệ, vui lòng nhập lại.")
     ds_fibo = []
     if n == 1:
-       dsfibo = [0]
+       ds_fibo = [0]
     if n == 2:
        ds_fibo= [0, 1]
     else:
